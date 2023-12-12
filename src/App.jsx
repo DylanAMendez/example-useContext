@@ -16,7 +16,7 @@ const App = () => {
 
     <div>
     
-    <h1 className="flex flex-col content-center items-center" >APP</h1>
+    <h1 className="flex flex-col content-center items-center my-7" >APP</h1>
 
     <MainCompo />
 

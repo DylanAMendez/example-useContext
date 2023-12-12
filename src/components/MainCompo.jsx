@@ -20,9 +20,9 @@ const MainCompo = () => {
         <section className={className}>
 
         
-        <div className="bg-green-400 flex flex-col content-center items-center ">
+        <div className="flex flex-col content-center items-center ">
         <h1 className=" ">MainCompo</h1>
-        <button onClick={ () => cambiarTheme()  } className=""  > cambiar fondo </button>
+        <button onClick={ () => cambiarTheme()  } className=" bg-green-800  border border-orange-300 my-2 p-2 "  > cambiar fondo </button>
         </div>
 
         <HeaderCompo />

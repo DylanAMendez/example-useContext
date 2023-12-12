@@ -26,7 +26,7 @@ export const MiddleCompo = () => {
 
           <h2 className="mt-5">Theme</h2>
 
-          <button onClick={ () => cambiarTheme()  } className=" border border-orange-300 my-2 p-2 " >Cambiar Theme</button>
+          <button onClick={ () => cambiarTheme()  } className="" >Cambiar Theme</button>
 
       </div>
 

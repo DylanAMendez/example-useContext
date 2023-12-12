@@ -19,3 +19,15 @@ body
   background-color: darkgrey;
   color: gold;
 }
+
+.panel-all-light
+{
+  background-color: #dddddd;
+  color: black;
+}
+
+.panel-all-dark
+{
+  background-color: #1c1c1c;
+  color: aliceblue;
+}
